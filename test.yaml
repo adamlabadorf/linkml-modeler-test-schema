@@ -1,1 +1,7 @@
-schema
+id: https://example.org/test
+name: test
+prefixes:
+  linkml: https://w3id.org/linkml/
+default_prefix: test
+imports:
+  - linkml:types
