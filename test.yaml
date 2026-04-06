@@ -5,6 +5,12 @@ prefixes:
 default_prefix: test
 imports:
   - linkml:types
+  - ./ref
 classes:
-  NewClass: {}
-  NewClass1: {}
+  NewClass:
+    is_a: RefClass
+    tree_root: true
+  NewClass1:
+    attributes:
+      test:
+        range: RefClass

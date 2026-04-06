@@ -6,4 +6,4 @@ default_prefix: ref
 imports:
   - linkml:types
 classes:
-  NewClass: {}
+  RefClass: {}
