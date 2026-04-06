@@ -1,10 +1,9 @@
-id: https://example.org/test
-name: test
+id: https://example.org/ref
+name: ref
 prefixes:
   linkml: https://w3id.org/linkml/
-default_prefix: test
+default_prefix: ref
 imports:
   - linkml:types
 classes:
   NewClass: {}
-  NewClass1: {}
