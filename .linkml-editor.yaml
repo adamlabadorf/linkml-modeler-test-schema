@@ -1,0 +1,27 @@
+version: 1
+schemas:
+  ref.yaml:
+    layout:
+      nodes:
+        RefClass:
+          x: 12
+          'y': 12
+      viewport:
+        x: 73.64689129727418
+        'y': 208.05029691578488
+        zoom: 1.7411011265922482
+  test.yaml:
+    layout:
+      nodes:
+        NewClass:
+          x: 12
+          'y': 220
+        NewClass1:
+          x: 332
+          'y': 220
+        importGroup__ref.yaml:
+          x: 12
+          'y': 12
+        ghost__RefClass:
+          x: 28
+          'y': 64

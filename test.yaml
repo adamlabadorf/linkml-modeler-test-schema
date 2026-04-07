@@ -10,7 +10,11 @@ classes:
   NewClass:
     is_a: RefClass
     tree_root: true
+    attributes:
+      geneVersion:
+        range: NewClass1
   NewClass1:
+    is_a: gene
     attributes:
       test:
         range: RefClass
