@@ -6,10 +6,6 @@ schemas:
         RefClass:
           x: 12
           'y': 12
-      viewport:
-        x: 73.64689129727418
-        'y': 208.05029691578488
-        zoom: 1.7411011265922482
   test.yaml:
     layout:
       nodes:
@@ -25,3 +21,1081 @@ schemas:
         ghost__RefClass:
           x: 28
           'y': 64
+        importGroup__https://w3id.org/biolink/biolink-model.yaml:
+          x: 157.9414634146341
+          'y': -196.46341463414637
+        ghost__gene:
+          x: 16
+          'y': 52
+  https://w3id.org/biolink/biolink-model.yaml:
+    layout:
+      nodes:
+        KnowledgeGraph:
+          x: 5952
+          'y': 12
+        Node:
+          x: 6212
+          'y': 12
+        Edge:
+          x: 6472
+          'y': 12
+        knowledge graph:
+          x: 6732
+          'y': 12
+        mapping collection:
+          x: 6992
+          'y': 12
+        predicate mapping:
+          x: 7252
+          'y': 12
+        ontology class:
+          x: 11942
+          'y': 17502.454545454544
+        annotation:
+          x: 8092
+          'y': 12
+        quantity value:
+          x: 7772
+          'y': 12
+        attribute:
+          x: 10382
+          'y': 20254.454545454544
+        chemical role:
+          x: 9682
+          'y': 20754.454545454544
+        biological sex:
+          x: 9682
+          'y': 20414.454545454544
+        phenotypic sex:
+          x: 9252
+          'y': 20434.454545454544
+        genotypic sex:
+          x: 9252
+          'y': 20274.454545454544
+        severity value:
+          x: 9682
+          'y': 20094.454545454544
+        relationship quantifier:
+          x: 13802
+          'y': 172
+        sensitivity quantifier:
+          x: 13482
+          'y': 12
+        specificity quantifier:
+          x: 13482
+          'y': 172
+        pathognomonicity quantifier:
+          x: 13162
+          'y': 172
+        frequency quantifier:
+          x: 13482
+          'y': 1825
+        chemical or drug or treatment:
+          x: 11942
+          'y': 18622.454545454544
+        entity:
+          x: 13482
+          'y': 2478
+        named thing:
+          x: 13162
+          'y': 9267.454545454544
+        relationship type:
+          x: 10382
+          'y': 26315.454545454544
+        taxonomic rank:
+          x: 10382
+          'y': 26681.883116883117
+        organism taxon:
+          x: 11942
+          'y': 10059.454545454544
+        event:
+          x: 11942
+          'y': 9270.98395721925
+        administrative entity:
+          x: 11942
+          'y': 8947.454545454544
+        study result:
+          x: 10382
+          'y': 6410.787878787876
+        concept count analysis result:
+          x: 9682
+          'y': 8309.454545454544
+        observed expected frequency analysis result:
+          x: 9682
+          'y': 10189.454545454544
+        relative frequency analysis result:
+          x: 9682
+          'y': 7989.454545454544
+        chi squared analysis result:
+          x: 9682
+          'y': 8629.454545454544
+        log odds analysis result:
+          x: 9682
+          'y': 8149.454545454544
+        text mining study result:
+          x: 9682
+          'y': 8789.454545454544
+        icees study result:
+          x: 9682
+          'y': 7829.454545454544
+        study:
+          x: 9252
+          'y': 22943.454545454544
+        study variable:
+          x: 10382
+          'y': 5930.787878787876
+        common data element:
+          x: 10382
+          'y': 6090.787878787876
+        agent:
+          x: 10382
+          'y': 10509.454545454544
+        information content entity:
+          x: 11942
+          'y': 6250.787878787876
+        dataset:
+          x: 10382
+          'y': 5770.787878787876
+        dataset distribution:
+          x: 10382
+          'y': 6890.787878787876
+        dataset version:
+          x: 10382
+          'y': 6730.787878787876
+        dataset summary:
+          x: 10382
+          'y': 6570.787878787876
+        confidence level:
+          x: 10382
+          'y': 6250.787878787876
+        evidence type:
+          x: 10382
+          'y': 5610.787878787876
+        publication:
+          x: 10382
+          'y': 5290.787878787876
+        book:
+          x: 9682
+          'y': 7029.454545454544
+        book chapter:
+          x: 9682
+          'y': 5297.454545454544
+        serial:
+          x: 9682
+          'y': 4657.454545454544
+        article:
+          x: 9682
+          'y': 7669.454545454544
+        journal article:
+          x: 9252
+          'y': 9569.454545454544
+        patent:
+          x: 9682
+          'y': 7349.454545454544
+        web page:
+          x: 9682
+          'y': 4817.454545454544
+        preprint publication:
+          x: 9682
+          'y': 4497.454545454544
+        drug label:
+          x: 9682
+          'y': 5137.454545454544
+        retrieval source:
+          x: 10382
+          'y': 7210.787878787876
+        physical essence or occurrent:
+          x: 13162
+          'y': 27667.883116883117
+        physical essence:
+          x: 11942
+          'y': 27687.883116883117
+        physical entity:
+          x: 10382
+          'y': 24707.454545454544
+        occurrent:
+          x: 11942
+          'y': 26495.02597402597
+        activity and behavior:
+          x: 10382
+          'y': 28392.883116883117
+        activity:
+          x: 9682
+          'y': 22943.454545454544
+        procedure:
+          x: 9682
+          'y': 23263.454545454544
+        phenomenon:
+          x: 10382
+          'y': 24395.454545454544
+        device:
+          x: 11942
+          'y': 9907.454545454544
+        diagnostic aid:
+          x: 11942
+          'y': 8486.454545454544
+        study population:
+          x: 9252
+          'y': 8289.454545454544
+        subject of investigation:
+          x: 11942
+          'y': 1125
+        material sample:
+          x: 9682
+          'y': 10509.454545454544
+        planetary entity:
+          x: 11942
+          'y': 4177.454545454544
+        environmental process:
+          x: 10382
+          'y': 23755.454545454544
+        environmental feature:
+          x: 10382
+          'y': 4017.454545454544
+        geographic location:
+          x: 10382
+          'y': 4177.454545454544
+        geographic location at time:
+          x: 9682
+          'y': 4177.454545454544
+        thing with taxon:
+          x: 13162
+          'y': 28959.883116883117
+        biological entity:
+          x: 11942
+          'y': 13502.454545454544
+        genomic entity:
+          x: 11942
+          'y': 26175.02597402597
+        epigenomic entity:
+          x: 9682
+          'y': 22335.454545454544
+        molecular entity:
+          x: 9682
+          'y': 25859.454545454544
+        chemical entity:
+          x: 10382
+          'y': 23435.454545454544
+        small molecule:
+          x: 9252
+          'y': 25839.454545454544
+        chemical mixture:
+          x: 9682
+          'y': 26467.454545454544
+        nucleic acid entity:
+          x: 9252
+          'y': 28006.883116883117
+        regulatory region:
+          x: 10382
+          'y': 27232.883116883117
+        accessible dna region:
+          x: 9682
+          'y': 27584.883116883117
+        transcription factor binding site:
+          x: 9682
+          'y': 27302.883116883117
+        molecular mixture:
+          x: 9252
+          'y': 26994.883116883117
+        complex molecular mixture:
+          x: 9252
+          'y': 25999.454545454544
+        biological process or activity:
+          x: 10382
+          'y': 26456.454545454544
+        molecular activity:
+          x: 9682
+          'y': 26982.883116883117
+        biological process:
+          x: 9682
+          'y': 27142.883116883117
+        pathway:
+          x: 9252
+          'y': 27846.883116883117
+        physiological process:
+          x: 9252
+          'y': 26319.454545454544
+        behavior:
+          x: 9252
+          'y': 27154.883116883117
+        processed material:
+          x: 9252
+          'y': 26159.454545454544
+        drug:
+          x: 8932
+          'y': 28076.883116883117
+        environmental food contaminant:
+          x: 9682
+          'y': 23103.454545454544
+        food additive:
+          x: 9682
+          'y': 23423.454545454544
+        food:
+          x: 9252
+          'y': 26479.454545454544
+        organism attribute:
+          x: 9682
+          'y': 20594.454545454544
+        phenotypic quality:
+          x: 9252
+          'y': 20594.454545454544
+        genetic inheritance:
+          x: 10382
+          'y': 19622.454545454544
+        organismal entity:
+          x: 10382
+          'y': 7522.787878787876
+        bacterium:
+          x: 9682
+          'y': 10669.454545454544
+        virus:
+          x: 9682
+          'y': 4337.454545454544
+        cellular organism:
+          x: 9682
+          'y': 7509.454545454544
+        mammal:
+          x: 9252
+          'y': 8129.454545454544
+        human:
+          x: 8932
+          'y': 8109.454545454544
+        plant:
+          x: 9252
+          'y': 9409.454545454544
+        invertebrate:
+          x: 9252
+          'y': 8929.454545454544
+        vertebrate:
+          x: 9252
+          'y': 8769.454545454544
+        fungus:
+          x: 9252
+          'y': 9089.454545454544
+        life stage:
+          x: 9682
+          'y': 21695.454545454544
+        individual organism:
+          x: 9682
+          'y': 7189.454545454544
+        population of individual organisms:
+          x: 9682
+          'y': 4017.454545454544
+        disease or phenotypic feature:
+          x: 10382
+          'y': 23275.454545454544
+        disease:
+          x: 11942
+          'y': 16222.454545454544
+        phenotypic feature:
+          x: 11942
+          'y': 12702.454545454544
+        behavioral feature:
+          x: 10382
+          'y': 12530.454545454544
+        anatomical entity:
+          x: 9682
+          'y': 25507.454545454544
+        cellular component:
+          x: 9252
+          'y': 25679.454545454544
+        cell:
+          x: 9252
+          'y': 25519.454545454544
+        cell line:
+          x: 9682
+          'y': 6869.454545454544
+        gross anatomical structure:
+          x: 9252
+          'y': 25359.454545454544
+        chemical entity or gene or gene product:
+          x: 11942
+          'y': 15582.454545454544
+        chemical entity or protein or polypeptide:
+          x: 11942
+          'y': 965
+        macromolecular machine mixin:
+          x: 13162
+          'y': 3837.454545454544
+        gene or gene product:
+          x: 11942
+          'y': 3857.454545454544
+        gene or gene product or gene family:
+          x: 7512
+          'y': 12
+        gene:
+          x: 10382
+          'y': 25027.454545454544
+        gene product mixin:
+          x: 10382
+          'y': 3837.454545454544
+        gene product isoform mixin:
+          x: 9682
+          'y': 3857.454545454544
+        macromolecular complex:
+          x: 10382
+          'y': 10669.454545454544
+        nucleosome modification:
+          x: 9252
+          'y': 22323.454545454544
+        genome:
+          x: 10382
+          'y': 27655.883116883117
+        exon:
+          x: 10382
+          'y': 19302.454545454544
+        transcript:
+          x: 10382
+          'y': 18662.454545454544
+        coding sequence:
+          x: 10382
+          'y': 25507.454545454544
+        polypeptide:
+          x: 10382
+          'y': 10821.454545454544
+        protein:
+          x: 9682
+          'y': 8469.454545454544
+        protein isoform:
+          x: 9252
+          'y': 8449.454545454544
+        protein domain:
+          x: 10382
+          'y': 12850.454545454544
+        posttranslational modification:
+          x: 9252
+          'y': 9249.454545454544
+        protein family:
+          x: 10382
+          'y': 18982.454545454544
+        nucleic acid sequence motif:
+          x: 10382
+          'y': 19462.454545454544
+        RNA product:
+          x: 9682
+          'y': 10029.454545454544
+        RNA product isoform:
+          x: 9252
+          'y': 8609.454545454544
+        noncoding RNA product:
+          x: 9252
+          'y': 10049.454545454544
+        microRNA:
+          x: 8932
+          'y': 9909.454545454544
+        siRNA:
+          x: 8932
+          'y': 10069.454545454544
+        gene grouping mixin:
+          x: 11942
+          'y': 9435.454545454544
+        gene family:
+          x: 10382
+          'y': 18822.454545454544
+        zygosity:
+          x: 9682
+          'y': 20254.454545454544
+        genotype:
+          x: 10382
+          'y': 27373.883116883117
+        haplotype:
+          x: 10382
+          'y': 27796.883116883117
+        sequence variant:
+          x: 10382
+          'y': 26822.883116883117
+        snv:
+          x: 9682
+          'y': 26822.883116883117
+        reagent targeted gene:
+          x: 10382
+          'y': 27514.883116883117
+        clinical attribute:
+          x: 9682
+          'y': 19774.454545454544
+        clinical measurement:
+          x: 9252
+          'y': 19934.454545454544
+        clinical modifier:
+          x: 9252
+          'y': 19774.454545454544
+        clinical course:
+          x: 9252
+          'y': 19614.454545454544
+        onset:
+          x: 8932
+          'y': 22783.454545454544
+        clinical entity:
+          x: 11942
+          'y': 7370.787878787876
+        clinical trial:
+          x: 8932
+          'y': 22943.454545454544
+        clinical intervention:
+          x: 10382
+          'y': 7370.787878787876
+        clinical finding:
+          x: 10382
+          'y': 12690.454545454544
+        hospitalization:
+          x: 9682
+          'y': 10349.454545454544
+        socioeconomic attribute:
+          x: 9682
+          'y': 19934.454545454544
+        case:
+          x: 9252
+          'y': 7169.454545454544
+        cohort:
+          x: 8932
+          'y': 8269.454545454544
+        exposure event:
+          x: 10382
+          'y': 21535.454545454544
+        genomic background exposure:
+          x: 9682
+          'y': 26619.454545454544
+        pathological entity mixin:
+          x: 9682
+          'y': 3697.454545454544
+        pathological process:
+          x: 9252
+          'y': 20114.454545454544
+        pathological process exposure:
+          x: 9682
+          'y': 21215.454545454544
+        pathological anatomical structure:
+          x: 9252
+          'y': 9889.454545454544
+        pathological anatomical exposure:
+          x: 9682
+          'y': 21855.454545454544
+        disease or phenotypic feature exposure:
+          x: 9252
+          'y': 9729.454545454544
+        chemical exposure:
+          x: 9682
+          'y': 22175.454545454544
+        complex chemical exposure:
+          x: 9682
+          'y': 22015.454545454544
+        drug exposure:
+          x: 9252
+          'y': 22643.454545454544
+        drug to gene interaction exposure:
+          x: 8932
+          'y': 22623.454545454544
+        treatment:
+          x: 9682
+          'y': 26307.454545454544
+        biotic exposure:
+          x: 9682
+          'y': 21535.454545454544
+        geographic exposure:
+          x: 9252
+          'y': 22483.454545454544
+        environmental exposure:
+          x: 9682
+          'y': 20895.454545454544
+        behavioral exposure:
+          x: 9682
+          'y': 21055.454545454544
+        socioeconomic exposure:
+          x: 9682
+          'y': 21375.454545454544
+        outcome:
+          x: 8672
+          'y': 498.6666666666667
+        pathological process outcome:
+          x: 8352
+          'y': 972
+        pathological anatomical outcome:
+          x: 8352
+          'y': 812
+        disease or phenotypic feature outcome:
+          x: 8352
+          'y': 652
+        behavioral outcome:
+          x: 8352
+          'y': 12
+        hospitalization outcome:
+          x: 8352
+          'y': 492
+        mortality outcome:
+          x: 8352
+          'y': 332
+        epidemiological outcome:
+          x: 8352
+          'y': 172
+        socioeconomic outcome:
+          x: 8352
+          'y': 1132
+        association:
+          x: 13162
+          'y': 13182.454545454544
+        disease associated with response to chemical entity association:
+          x: 11942
+          'y': 18462.454545454544
+        chemical entity assesses named thing association:
+          x: 11942
+          'y': 12542.454545454544
+        contributor association:
+          x: 11942
+          'y': 14942.454545454544
+        genotype to genotype part association:
+          x: 11942
+          'y': 16062.454545454544
+        genotype to gene association:
+          x: 11942
+          'y': 15102.454545454544
+        genotype to variant association:
+          x: 11942
+          'y': 13982.454545454544
+        gene to gene association:
+          x: 11942
+          'y': 11582.454545454544
+        gene to gene homology association:
+          x: 10382
+          'y': 11582.454545454544
+        gene to gene family association:
+          x: 11942
+          'y': 14782.454545454544
+        gene family to gene or gene product or gene family association:
+          x: 11942
+          'y': 13022.454545454544
+        gene or gene product or gene family to biological process or activity association:
+          x: 11942
+          'y': 17982.454545454544
+        biological process or activity to gene or gene product or gene family association:
+          x: 11942
+          'y': 19102.454545454544
+        biological process or activity to biological process or activity association:
+          x: 11942
+          'y': 17182.454545454544
+        gene expression mixin:
+          x: 11942
+          'y': 16702.454545454544
+        gene to gene coexpression association:
+          x: 10382
+          'y': 21695.454545454544
+        pairwise gene to gene interaction:
+          x: 10382
+          'y': 11422.454545454544
+        pairwise molecular interaction:
+          x: 9682
+          'y': 11422.454545454544
+        cell line to entity association mixin:
+          x: 13162
+          'y': 9747.454545454544
+        cell line to disease or phenotypic feature association:
+          x: 11942
+          'y': 9747.454545454544
+        chemical entity to entity association mixin:
+          x: 13482
+          'y': 1395
+        drug to entity association mixin:
+          x: 13162
+          'y': 492
+        chemical to entity association mixin:
+          x: 13162
+          'y': 1415
+        case to entity association mixin:
+          x: 13162
+          'y': 9587.454545454544
+        chemical entity to chemical entity association:
+          x: 11942
+          'y': 16862.454545454544
+        reaction to participant association:
+          x: 10382
+          'y': 25347.454545454544
+        reaction to catalyst association:
+          x: 9682
+          'y': 25347.454545454544
+        chemical entity to chemical derivation association:
+          x: 10382
+          'y': 25187.454545454544
+        chemical entity to disease or phenotypic feature association:
+          x: 11942
+          'y': 2783.454545454544
+        chemical or drug or treatment to disease or phenotypic feature association:
+          x: 11942
+          'y': 3084.454545454544
+        chemical or drug or treatment side effect disease or phenotypic feature association:
+          x: 10382
+          'y': 2252
+        gene to pathway association:
+          x: 11942
+          'y': 4017.454545454544
+        molecular activity to pathway association:
+          x: 11942
+          'y': 14302.454545454544
+        chemical entity to pathway association:
+          x: 11942
+          'y': 18942.454545454544
+        chemical entity to biological process association:
+          x: 11942
+          'y': 18142.454545454544
+        named thing associated with likelihood of named thing association:
+          x: 11942
+          'y': 17822.454545454544
+        chemical gene interaction association:
+          x: 11942
+          'y': 17342.454545454544
+        gene regulates gene association:
+          x: 11942
+          'y': 15422.454545454544
+        process regulates process association:
+          x: 11942
+          'y': 14142.454545454544
+        chemical affects biological entity association:
+          x: 11942
+          'y': 16542.454545454544
+        chemical affects gene association:
+          x: 10382
+          'y': 24867.454545454544
+        gene affects chemical association:
+          x: 11942
+          'y': 13342.454545454544
+        drug to gene association:
+          x: 11942
+          'y': 2274
+        material sample to entity association mixin:
+          x: 13162
+          'y': 1255
+        material sample derivation association:
+          x: 11942
+          'y': 18782.454545454544
+        material sample to disease or phenotypic feature association:
+          x: 11942
+          'y': 1285
+        disease to entity association mixin:
+          x: 13162
+          'y': 2458
+        entity to exposure event association mixin:
+          x: 13162
+          'y': 9107.454545454544
+        disease to exposure event association:
+          x: 11942
+          'y': 9107.454545454544
+        entity to outcome association mixin:
+          x: 13162
+          'y': 332
+        exposure event to outcome association:
+          x: 11942
+          'y': 1478
+        frequency qualifier mixin:
+          x: 13802
+          'y': 2158
+        entity to feature or disease qualifiers mixin:
+          x: 13482
+          'y': 2158
+        entity to feature or variant qualifiers mixin:
+          x: 13482
+          'y': 1998
+        entity to feature or gene qualifiers mixin:
+          x: 13482
+          'y': 2318
+        feature or disease qualifiers to entity mixin:
+          x: 13482
+          'y': 2638
+        entity to phenotypic feature association mixin:
+          x: 13162
+          'y': 1857
+        phenotypic feature to entity association mixin:
+          x: 13162
+          'y': 2618
+        phenotypic feature to phenotypic feature association:
+          x: 11942
+          'y': 3385.454545454544
+        information content entity to named thing association:
+          x: 11942
+          'y': 17662.454545454544
+        entity to disease association mixin:
+          x: 13162
+          'y': 2919
+        disease or phenotypic feature to entity association mixin:
+          x: 13162
+          'y': 652
+        disease or phenotypic feature to location association:
+          x: 11942
+          'y': 3225.454545454544
+        disease or phenotypic feature to genetic inheritance association:
+          x: 11942
+          'y': 1798
+        entity to disease or phenotypic feature association mixin:
+          x: 13162
+          'y': 1575
+        genotype to entity association mixin:
+          x: 13162
+          'y': 1716
+        genotype to phenotypic feature association:
+          x: 11942
+          'y': 2114
+        exposure event to phenotypic feature association:
+          x: 11942
+          'y': 3697.454545454544
+        disease to phenotypic feature association:
+          x: 11942
+          'y': 2426
+        case to phenotypic feature association:
+          x: 11942
+          'y': 8787.454545454544
+        case to disease association:
+          x: 11942
+          'y': 11742.454545454544
+        case to variant association:
+          x: 11942
+          'y': 11422.454545454544
+        case to gene association:
+          x: 11942
+          'y': 12062.454545454544
+        behavior to behavioral feature association:
+          x: 11942
+          'y': 10219.454545454544
+        gene to entity association mixin:
+          x: 13162
+          'y': 812
+        variant to entity association mixin:
+          x: 13162
+          'y': 2759
+        gene to disease or phenotypic feature association:
+          x: 11942
+          'y': 1638
+        gene to phenotypic feature association:
+          x: 10382
+          'y': 894
+        gene to disease association:
+          x: 10382
+          'y': 1638
+        causal gene to disease association:
+          x: 9682
+          'y': 1337
+        correlated gene to disease association:
+          x: 9682
+          'y': 1638
+        druggable gene to disease association:
+          x: 9682
+          'y': 1478
+        phenotypic feature to disease association:
+          x: 11942
+          'y': 9587.454545454544
+        variant to gene association:
+          x: 11942
+          'y': 11902.454545454544
+        variant to gene expression association:
+          x: 10382
+          'y': 22955.454545454544
+        variant to population association:
+          x: 11942
+          'y': 1939
+        population to population association:
+          x: 11942
+          'y': 12382.454545454544
+        variant to phenotypic feature association:
+          x: 11942
+          'y': 3537.454545454544
+        variant to disease association:
+          x: 11942
+          'y': 8646.454545454544
+        genotype to disease association:
+          x: 11942
+          'y': 2924.454545454544
+        model to disease association mixin:
+          x: 11942
+          'y': 10379.454545454544
+        gene as a model of disease association:
+          x: 9682
+          'y': 4977.454545454544
+        variant as a model of disease association:
+          x: 10382
+          'y': 7050.787878787876
+        genotype as a model of disease association:
+          x: 10382
+          'y': 5450.787878787876
+        cell line as a model of disease association:
+          x: 10382
+          'y': 10349.454545454544
+        organismal entity as a model of disease association:
+          x: 10382
+          'y': 19142.454545454544
+        organism to organism association:
+          x: 11942
+          'y': 16382.454545454544
+        taxon to taxon association:
+          x: 11942
+          'y': 15902.454545454544
+        gene has variant that contributes to disease association:
+          x: 9682
+          'y': 1798
+        gene to expression site association:
+          x: 11942
+          'y': 13822.454545454544
+        sequence variant modulates treatment association:
+          x: 11942
+          'y': 13182.454545454544
+        functional association:
+          x: 11942
+          'y': 26335.02597402597
+        macromolecular machine to entity association mixin:
+          x: 11942
+          'y': 29041.883116883117
+        macromolecular machine to molecular activity association:
+          x: 10382
+          'y': 28726.883116883117
+        macromolecular machine to biological process association:
+          x: 10382
+          'y': 28566.883116883117
+        macromolecular machine to cellular component association:
+          x: 10382
+          'y': 28867.883116883117
+        molecular activity to chemical entity association:
+          x: 11942
+          'y': 13662.454545454544
+        molecular activity to molecular activity association:
+          x: 11942
+          'y': 12862.454545454544
+        gene to go term association:
+          x: 10382
+          'y': 28232.883116883117
+        entity to disease association:
+          x: 11942
+          'y': 17022.454545454544
+        entity to phenotypic feature association:
+          x: 11942
+          'y': 19243.454545454544
+        sequence association:
+          x: 11942
+          'y': 15742.454545454544
+        genomic sequence localization:
+          x: 10382
+          'y': 24547.454545454544
+        sequence feature relationship:
+          x: 11942
+          'y': 14622.454545454544
+        transcript to gene relationship:
+          x: 10382
+          'y': 23595.454545454544
+        gene to gene product relationship:
+          x: 10382
+          'y': 23915.454545454544
+        exon to transcript relationship:
+          x: 10382
+          'y': 23115.454545454544
+        chemical entity or gene or gene product regulates gene association:
+          x: 11942
+          'y': 18302.454545454544
+        anatomical entity to anatomical entity association:
+          x: 11942
+          'y': 15262.454545454544
+        anatomical entity to anatomical entity part of association:
+          x: 10382
+          'y': 24075.454545454544
+        anatomical entity to anatomical entity ontogenic association:
+          x: 10382
+          'y': 24235.454545454544
+        gene or gene product or gene family to anatomical entity association:
+          x: 11942
+          'y': 14462.454545454544
+        biological process or activity to anatomical entity association:
+          x: 11942
+          'y': 12222.454545454544
+        organism taxon to entity association:
+          x: 13162
+          'y': 9427.454545454544
+        organism taxon to organism taxon association:
+          x: 11942
+          'y': 11102.454545454544
+        organism taxon to organism taxon specialization:
+          x: 10382
+          'y': 11122.454545454544
+        organism taxon to organism taxon interaction:
+          x: 10382
+          'y': 10962.454545454544
+        organism taxon to environment association:
+          x: 11942
+          'y': 11262.454545454544
+        ResponseEnum:
+          x: 12
+          'y': 12
+        ResponseTargetEnum:
+          x: 232
+          'y': 12
+        ClinicalTrialStatusEnum:
+          x: 452
+          'y': 12
+        ClinicalTrialAgeStageEnum:
+          x: 672
+          'y': 12
+        ApprovalStatusEnum:
+          x: 892
+          'y': 12
+        ClinicalApprovalStatusEnum:
+          x: 1112
+          'y': 12
+        ResearchPhaseEnum:
+          x: 1332
+          'y': 12
+        DirectionQualifierEnum:
+          x: 1552
+          'y': 12
+        ChemicalEntityDerivativeEnum:
+          x: 1772
+          'y': 12
+        ChemicalOrGeneOrGeneProductFormOrVariantEnum:
+          x: 1992
+          'y': 12
+        GeneOrGeneProductOrChemicalPartQualifierEnum:
+          x: 2212
+          'y': 12
+        GeneOrGeneProductOrChemicalEntityAspectEnum:
+          x: 2432
+          'y': 12
+        CausalMechanismQualifierEnum:
+          x: 2652
+          'y': 12
+        LogicalInterpretationEnum:
+          x: 2872
+          'y': 12
+        ReactionDirectionEnum:
+          x: 3092
+          'y': 12
+        ReactionSideEnum:
+          x: 3312
+          'y': 12
+        PhaseEnum:
+          x: 3532
+          'y': 12
+        StrandEnum:
+          x: 3752
+          'y': 12
+        SequenceEnum:
+          x: 3972
+          'y': 12
+        DruggableGeneCategoryEnum:
+          x: 4192
+          'y': 12
+        DrugAvailabilityEnum:
+          x: 4412
+          'y': 12
+        DrugDeliveryEnum:
+          x: 4632
+          'y': 12
+        ResourceRoleEnum:
+          x: 4852
+          'y': 12
+        AffinityParameterEnum:
+          x: 5072
+          'y': 12
+        FDAIDAAdverseEventEnum:
+          x: 5292
+          'y': 12
+        AgentTypeEnum:
+          x: 5512
+          'y': 12
+        KnowledgeLevelEnum:
+          x: 5732
+          'y': 12
+      viewport:
+        x: -823.776346721264
+        'y': -501.6226344074512
+        zoom: 0.10769047078097198
