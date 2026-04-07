@@ -5,6 +5,5 @@ prefixes:
 default_prefix: ref
 imports:
   - linkml:types
-  - https://w3id.org/biolink/biolink-model.yaml
 classes:
   RefClass: {}

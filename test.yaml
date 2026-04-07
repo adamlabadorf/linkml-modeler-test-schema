@@ -6,6 +6,7 @@ default_prefix: test
 imports:
   - linkml:types
   - ./ref
+  - https://w3id.org/biolink/biolink-model.yaml
 classes:
   NewClass:
     is_a: RefClass
